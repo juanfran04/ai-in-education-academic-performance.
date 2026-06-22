@@ -1,7 +1,6 @@
-# ai-in-education-academic-performance.
-Analysis of the relationship between Generative AI usage and academic performance.
-
 # Impact of Generative AI Usage on Academic Performance
+
+Analysis of the relationship between Generative AI usage and academic performance.
 
 ## Overview
 
@@ -15,7 +14,7 @@ This project investigates the relationship between Generative AI usage and acade
 
 ## Dataset
 
-Source: Kaggle
+**Source:** Kaggle
 
 ## Tools
 
